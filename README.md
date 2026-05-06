@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am Dhruv yadav Studen Btech 3rd year <br>Dsa in Java <br>Python, Quality testing , AI/ML
+Hi, I'm Dhruv 👋  
+B.Tech CSE (AI) student passionate about software development, problem solving, and building impactful projects.  
+Currently focused on Data Structures & Algorithms, Java development, and exploring AI-driven technologies.  
+Always learning, building, and improving.
 
 
 ## 🌐 Socials:
